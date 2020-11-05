@@ -1,5 +1,7 @@
 # AgentAssistance
-Reinforcement learning Q Learning  Grid-World 8 directions, Simulated weighted assistance vs game score 
+Reinforcement learning Q Learning  Grid-World 8 directions.
+![Alt text](test.gif?raw=true "Title")
+Simulated weighted assistance vs game score 
 
 Here three different weights simulations results are shown,  
 Assist As Needed = Competence 1.0 + Autonomy .75
