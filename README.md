@@ -1,6 +1,6 @@
 # AgentAssistance
 Reinforcement learning Q Learning  Grid-World 8 directions.
-![Alt text](test.gif?raw=true "Title")
+![Alt text](test.gif)
 Simulated weighted assistance vs game score 
 
 Here three different weights simulations results are shown,  
