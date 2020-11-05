@@ -4,8 +4,8 @@
 
 
 Reinforcement learning Q Learning  Grid-World 8 directions.
-
-
+Change number of grids, position of trap, goal in the gridworld.py
+The Qtable_gridworld.ipynb is in raw unrefined stage, will upload a clean code in nearfuture. 
 Simulated weighted assistance vs game score 
 
 Here three different weights simulations results are shown,  
