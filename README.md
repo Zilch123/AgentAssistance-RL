@@ -6,6 +6,9 @@
 Reinforcement learning Q Learning  Grid-World 8 directions.
 Change number of grids, position of trap, goal in the gridworld.py
 
+QTable.ipynb is a colab notebook for implementing Q-learning in Gridworld with 8 action space with visualisation. 
+Qtable_gridworld.ipynb is the whole notebook which is not implemented in colab. 
+
 One of the reasons people love playing games is the sense of agency. They have control over their choices and the outcomes are instantaneous, causation obvious. For an average human who makes thousands of choices, causations are poorly understood as the processes can be abstract. Simple everyday nuances can compound over time. Even if people know the cause and effect, do they have the power to change it?
 
  For a person who is disabled their choices are fundamentally restricted by sensorimotor impairment, causing low feeling of agency, in everyday activities. Especially in stroke where they were once independent. Competence, Autonomy or sense of agency/control are fundamental psychological needs. With increase of perceived competence, intrinsic motivation increases, yet competence alone is not enough as the perception that they won the game by their effort is vital, which is the feeling of agency. As feeling of agency decreases, intrinsic motivation decreases
